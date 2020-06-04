@@ -7,7 +7,9 @@ de
 fregret
 dwrfwet
 fwefwre
-git 版本控制
+git 版本控制\n
+one\n
+
 <<<<<<< HEAD
 cuo 姑婆的的份额份额反而
 =======
