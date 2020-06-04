@@ -8,4 +8,7 @@ fregret
 dwrfwet
 fwefwre
 git 版本控制
+<<<<<<< HEAD
 
+=======
+dere
